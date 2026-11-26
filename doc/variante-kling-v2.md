@@ -24,7 +24,7 @@ kling query_tasks --poll 900 <generation_id>
 (`MCP error -32001: Request timed out` / `MCP connection failed: fetch failed`) enquanto o
 job termina normalmente do lado do Kling — aconteceu em 3 de 9 jobs, e piora com jobs em
 paralelo. O job nunca se perde: o que importa é guardar o `generation_id`. As URLs de
-resultado expiram em 24h, então baixe o MP4 assim que sair.
+resultado expiram em 24h, entêo baixe o MP4 assim que sair.
 
 `kf_a.png` = frame da maquete **já montada no tanque**, gerado antes na Agnes
 (`agnes-image-2.1-flash`, img2img a partir da foto de referência, `size` 1312x736 para 16:9
@@ -33,15 +33,15 @@ ou 736x1312 para 9:16). O usado no clipe: `~/projetos/output/videos-agnes/avcc-p
 ## O que faz esta receita funcionar
 
 1. **Sem `--tailImage`.** Com frame final obrigatório o modelo morfa A→B em vez de simular;
-   é a causa de "a destruição veio por trás" e "os prédios se dissolveram". Sem tail ele
+   é a causa de "a destruiçêo veio por trás" e "os prédios se dissolveram". Sem tail ele
    simula a onda de verdade. Custo: o estado final deixa de ser garantido — sobram prédios
    de pé.
-2. **A água é escala REAL, só os prédios são maquete.** Enquanto o prompt dizia "miniature"
+2. **A água é escala REAL, só os prédios sêo maquete.** Enquanto o prompt dizia "miniature"
    e "practical debris" para tudo, o modelo miniaturizava a água também (espuma pequena,
-   respingo de banheira). Água é a coisa que não escala.
+   respingo de banheira). Água é a coisa que nêo escala.
 3. **Linguagem de alta velocidade** (overcranked, 120fps reproduzido a 24, lâminas de água
    em vez de gotas) — é o truque real de cinema e foi o que deu peso ao efeito.
-4. **Frame inicial já dentro do estúdio**, então o clipe não gasta segundos na cidade real.
+4. **Frame inicial já dentro do estúdio**, entêo o clipe nêo gasta segundos na cidade real.
 
 ## Conflito conhecido com o documento AVCC
 
@@ -51,7 +51,7 @@ Esta receita **viola duas restrições negativas do guia**:
 - slow motion na água → o guia proíbe "no slow-motion-only destruction".
 
 Também fica mais fechada que o "plano aberto a 10–15 m" pedido no guia.
-Decisão em aberto: manter a receita (melhor resultado prático) ou um meio-termo — plano
+Decisêo em aberto: manter a receita (melhor resultado prático) ou um meio-termo — plano
 único, sem corte, com a água overcranked só na janela do impacto.
 
 ## Prompt (verbatim, inglês)

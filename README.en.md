@@ -14,7 +14,7 @@ Turns **a reference photo** into an ultra-realistic *behind-the-scenes* video of
 
 | keyframe A — the assembled miniature | the result — the wave destroying it |
 |---|---|
-| ![maquete](guia/assets/maquete.jpg) | ![destruição](guia/assets/destruicao.jpg) |
+| ![maquete](guia/assets/maquete.jpg) | ![destruiçêo](guia/assets/destruicao.jpg) |
 
 The two clips that worked, both 15s and generated from the same photo — [recipe B](guia/assets/b-kling.mp4)
 (single shot, faithful to the guide) and [v2 variant](guia/assets/v2-kling.mp4) (multi-shot with the studio reveal).

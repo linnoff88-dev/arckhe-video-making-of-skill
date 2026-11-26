@@ -2,26 +2,26 @@
 
 ## Imagem para Vídeo — BTS 9:16
 
-### Destruição Prática de Miniatura em Tanque de Ondas
+### Destruiçêo Prática de Miniatura em Tanque de Ondas
 
 Guia em português, pronto para copiar, para transformar uma única imagem arquitetônica de referência em um vídeo de **15 segundos, ultrarrealista, no estilo bastidores de efeitos práticos**.
 
 ---
 
-## 1. Visão Geral do Projeto
+## 1. Visêo Geral do Projeto
 
 **Formato:** Vertical 9:16  
-**Duração:** 15 segundos  
+**Duraçêo:** 15 segundos  
 **Estilo:** Bastidores ultrarrealistas  
-**Câmera:** Uma única tomada contínua, gravada com iPhone na mão  
+**Câmera:** Uma única tomada contínua, gravada com iPhone na mêo  
 **Cena:** Estúdio de efeitos práticos com uma cidade em miniatura dentro de um tanque de ondas  
 **Referência:** `@Image1` controla a arquitetura da miniatura  
 **Enquadramento:** Plano aberto  
 **Fluxo:** AVCC / AIVIDEOSKOOL
 
-A onda, a miniatura, o tanque, a barreira de segurança, a equipe e o ambiente de produção devem permanecer visíveis durante toda a sequência.
+A onda, a miniatura, o tanque, a barreira de segurança, a equipe e o ambiente de produçêo devem permanecer visíveis durante toda a sequência.
 
-A cena deve parecer uma gravação autêntica feita durante a produção de um grande filme, e não uma cena finalizada de filme-catástrofe.
+A cena deve parecer uma gravaçêo autêntica feita durante a produçêo de um grande filme, e nêo uma cena finalizada de filme-catástrofe.
 
 ---
 
@@ -29,19 +29,19 @@ A cena deve parecer uma gravação autêntica feita durante a produção de um g
 
 O vídeo é dividido em três momentos claros:
 
-### 0–4 segundos — Preparação e Tensão
+### 0–4 segundos — Preparaçêo e Tensêo
 
 - Revelar o estúdio.
 - Mostrar a equipe preparando o efeito prático.
 - Exibir a claquete.
-- Ouvir o diretor chamar a ação.
+- Ouvir o diretor chamar a açêo.
 - Ativar as bombas industriais.
 
 ### 4–10 segundos — Impacto Principal
 
 - Uma enorme onda prática atinge a miniatura.
 - Os prédios se quebram fisicamente.
-- Telhados, paredes, fachadas, árvores e elementos do cenário são arrastados.
+- Telhados, paredes, fachadas, árvores e elementos do cenário sêo arrastados.
 - Uma segunda onda destrói todas as estruturas restantes.
 
 ### 10–15 segundos — Consequências
@@ -57,17 +57,17 @@ O vídeo é dividido em três momentos claros:
 
 O prompt separa quatro responsabilidades diferentes:
 
-1. **Contexto de produção**
+1. **Contexto de produçêo**
 2. **Fidelidade à imagem de referência**
 3. **Lógica de câmera e segurança**
-4. **Cronologia da destruição**
+4. **Cronologia da destruiçêo**
 
-Essa separação impede que o modelo gere apenas uma cena genérica de inundação e ajuda a manter:
+Essa separaçêo impede que o modelo gere apenas uma cena genérica de inundaçêo e ajuda a manter:
 
 - Consistência arquitetônica
-- Ação legível
+- Açêo legível
 - Posicionamento seguro da câmera
-- Destruição física prática
+- Destruiçêo física prática
 - Início, impacto e encerramento claramente definidos
 
 ---
@@ -79,14 +79,14 @@ Essa separação impede que o modelo gere apenas uma cena genérica de inundaç�
 `@Image1` controla:
 
 - Arquitetura
-- Distribuição dos edifícios
+- Distribuiçêo dos edifícios
 - Fachadas
 - Materiais
 - Cores
 - Proporções
 - Design geral da miniatura
 
-Não adicionar arquitetura não relacionada, monumentos, marcos turísticos, construções fantasiosas ou estruturas decorativas que não estejam presentes na referência.
+Nêo adicionar arquitetura nêo relacionada, monumentos, marcos turísticos, construções fantasiosas ou estruturas decorativas que nêo estejam presentes na referência.
 
 ### Enquadramento BTS Aberto
 
@@ -97,7 +97,7 @@ Manter visíveis:
 - O tanque reforçado
 - A barreira de segurança
 - Os membros da equipe
-- Os equipamentos de produção
+- Os equipamentos de produçêo
 - O ambiente do estúdio
 
 ### Operador e Câmera Secos
@@ -107,13 +107,13 @@ Os seguintes elementos devem permanecer completamente secos:
 - Operador do iPhone
 - iPhone
 - Lente
-- Plataforma de observação
+- Plataforma de observaçêo
 - Primeiro plano
-- Posição da equipe próxima à câmera
+- Posiçêo da equipe próxima à câmera
 
-### Destruição Prática
+### Destruiçêo Prática
 
-A destruição deve parecer física.
+A destruiçêo deve parecer física.
 
 Os edifícios devem:
 
@@ -123,9 +123,9 @@ Os edifícios devem:
 - Perder telhados e fachadas
 - Ser arrastados como destroços físicos
 
-Evitar destruição limpa, sem peso, fantasiosa ou com aparência evidente de CGI.
+Evitar destruiçêo limpa, sem peso, fantasiosa ou com aparência evidente de CGI.
 
-### Destruição Total
+### Destruiçêo Total
 
 No quadro final:
 
@@ -147,37 +147,37 @@ A equipe permanece atrás de barreiras e em passarelas protegidas.
 
 # 5. Prompt Completo Pronto para Copiar
 
-Crie um vídeo vertical 9:16, com 15 segundos de duração, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
+Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
 
-O vídeo deve parecer uma gravação autêntica de produção feita dentro de um grande estúdio, e não uma cena finalizada de filme-catástrofe. O espectador está assistindo aos bastidores da criação de um efeito prático de destruição.
+O vídeo deve parecer uma gravaçêo autêntica de produçêo feita dentro de um grande estúdio, e nêo uma cena finalizada de filme-catástrofe. O espectador está assistindo aos bastidores da criaçêo de um efeito prático de destruiçêo.
 
-`@Image1` define com precisão a aparência arquitetônica, os projetos dos edifícios, as fachadas, os materiais, as cores, as proporções e a distribuição geral da miniatura artesanal.
+`@Image1` define com precisêo a aparência arquitetônica, os projetos dos edifícios, as fachadas, os materiais, as cores, as proporções e a distribuiçêo geral da miniatura artesanal.
 
 Recrie os edifícios visíveis em `@Image1` como uma miniatura física altamente detalhada.
 
-Não introduza monumentos de Bukhara, arquitetura não relacionada, monumentos adicionais, edifícios fantasiosos, estruturas decorativas ou qualquer construção que não esteja visível na imagem de referência.
+Nêo introduza monumentos de Bukhara, arquitetura nêo relacionada, monumentos adicionais, edifícios fantasiosos, estruturas decorativas ou qualquer construçêo que nêo esteja visível na imagem de referência.
 
 A miniatura está instalada dentro de um enorme tanque reforçado para ondas práticas, localizado em um grande estúdio de cinema.
 
-O ambiente de produção inclui telas azuis, estruturas de iluminação, guindastes, bombas de água de alta capacidade, mangueiras grossas, cabos de energia, monitores de produção, uma câmera de cinema protegida dentro de uma carcaça à prova d’água e vários membros da equipe usando camisetas pretas com a inscrição “AIVIDEOSKOOL”.
+O ambiente de produçêo inclui telas azuis, estruturas de iluminaçêo, guindastes, bombas de água de alta capacidade, mangueiras grossas, cabos de energia, monitores de produçêo, uma câmera de cinema protegida dentro de uma carcaça à prova d’água e vários membros da equipe usando camisetas pretas com a inscriçêo “AIVIDEOSKOOL”.
 
-O operador do iPhone grava a partir de uma plataforma de observação levemente elevada, completamente seca, posicionada aproximadamente entre 10 e 15 metros do tanque de ondas.
+O operador do iPhone grava a partir de uma plataforma de observaçêo levemente elevada, completamente seca, posicionada aproximadamente entre 10 e 15 metros do tanque de ondas.
 
-Use uma composição moderadamente aberta, mantendo visíveis a miniatura completa, a onda se aproximando, a barreira de segurança e parte do ambiente de produção.
+Use uma composiçêo moderadamente aberta, mantendo visíveis a miniatura completa, a onda se aproximando, a barreira de segurança e parte do ambiente de produçêo.
 
 Uma barreira alta e transparente de segurança, acompanhada por uma ampla área seca de trabalho, separa o operador do tanque.
 
 A onda se desloca lateralmente através da miniatura e para longe do operador.
 
-O operador, o iPhone, a lente, a plataforma de observação, o primeiro plano e a equipe próxima à câmera permanecem completamente secos durante todo o vídeo.
+O operador, o iPhone, a lente, a plataforma de observaçêo, o primeiro plano e a equipe próxima à câmera permanecem completamente secos durante todo o vídeo.
 
-Use uma única tomada contínua com câmera na mão, movimentos naturais de smartphone, exposição realista, pequenas variações de foco, discreto efeito de rolling shutter e áudio autêntico de bastidores.
+Use uma única tomada contínua com câmera na mêo, movimentos naturais de smartphone, exposiçêo realista, pequenas variações de foco, discreto efeito de rolling shutter e áudio autêntico de bastidores.
 
 ## 0–4 Segundos
 
-A tomada contínua começa com uma visão ampla e levemente distante do estúdio em plena atividade.
+A tomada contínua começa com uma visêo ampla e levemente distante do estúdio em plena atividade.
 
-A câmera faz uma panorâmica lenta pelos membros da equipe, que realizam os últimos ajustes nos edifícios em miniatura, modelados com precisão a partir de `@Image1`.
+A câmera faz uma panorâmica lenta pelos membros da equipe, que realizam os últimos ajustes nos edifícios em miniatura, modelados com precisêo a partir de `@Image1`.
 
 A câmera de cinema protegida está firmemente instalada dentro de uma carcaça à prova d’água próxima ao tanque.
 
@@ -185,13 +185,13 @@ Um assistente posiciona uma claquete ao lado da miniatura e rapidamente retorna 
 
 Fora do enquadramento, o diretor grita:
 
-“Gravando... Ação!”
+“Gravando... Açêo!”
 
 O supervisor de efeitos práticos puxa uma pesada alavanca industrial.
 
-Múltiplas bombas de água de alta capacidade são ativadas simultaneamente, produzindo um forte ruído mecânico grave.
+Múltiplas bombas de água de alta capacidade sêo ativadas simultaneamente, produzindo um forte ruído mecânico grave.
 
-A água começa a subir no sistema de ondas enquanto a miniatura completa, o tanque, a barreira de segurança e a equipe permanecem visíveis na composição aberta.
+A água começa a subir no sistema de ondas enquanto a miniatura completa, o tanque, a barreira de segurança e a equipe permanecem visíveis na composiçêo aberta.
 
 ## 4–10 Segundos
 
@@ -205,11 +205,11 @@ A gigantesca onda prática atinge a miniatura com força física avassaladora.
 
 O primeiro impacto arranca instantaneamente os telhados dos prédios e empurra violentamente as fachadas para dentro.
 
-Uma fração de segundo depois, estruturas inteiras se soltam das fundações, desabam em grandes partes físicas e são arrastadas pelo tanque.
+Uma fraçêo de segundo depois, estruturas inteiras se soltam das fundações, desabam em grandes partes físicas e sêo arrastadas pelo tanque.
 
 As ruas desaparecem sob a água turbulenta.
 
-Telhados, paredes, colunas, portas, árvores, fachadas e grandes partes do cenário artesanal giram dentro da correnteza, com peso, atrito, colisão e resistência da água realistas.
+Telhados, paredes, colunas, portas, árvores, fachadas e grandes partes do cenário artesanal giram dentro da correnteza, com peso, atrito, colisêo e resistência da água realistas.
 
 Uma segunda onda poderosa surge imediatamente e remove todas as estruturas restantes.
 
@@ -225,13 +225,13 @@ Fora do enquadramento, o diretor grita:
 
 A corrente violenta continua arrastando os últimos grandes fragmentos da miniatura pelo tanque.
 
-Pequenos destroços giram em meio à água espumosa enquanto a fundação exposta da miniatura é completamente limpa.
+Pequenos destroços giram em meio à água espumosa enquanto a fundaçêo exposta da miniatura é completamente limpa.
 
 Ao final da sequência, toda a miniatura arquitetônica baseada em `@Image1` foi demolida e levada pela água.
 
-Restam apenas uma fundação vazia e alagada e alguns fragmentos espalhados.
+Restam apenas uma fundaçêo vazia e alagada e alguns fragmentos espalhados.
 
-A câmera mantém a composição aberta e distante, revelando a grande escala da destruição prática, as telas azuis, as estruturas de iluminação, as bombas, os cabos, as áreas protegidas para a equipe e o tanque devastado.
+A câmera mantém a composiçêo aberta e distante, revelando a grande escala da destruiçêo prática, as telas azuis, as estruturas de iluminaçêo, as bombas, os cabos, as áreas protegidas para a equipe e o tanque devastado.
 
 Os membros da equipe permanecem em segurança atrás de barreiras reforçadas.
 
@@ -243,10 +243,10 @@ Termine mostrando a base vazia da miniatura enquanto a última onda carrega o ú
 
 ## 6. Restrições Negativas
 
-Não gerar:
+Nêo gerar:
 
 - Cena finalizada de filme-catástrofe
-- Visão de drone
+- Visêo de drone
 - Close que esconda a escala da miniatura
 - Câmera posicionada dentro do tanque
 - Água atingindo o operador do iPhone
@@ -254,7 +254,7 @@ Não gerar:
 - Equipe dentro da zona molhada
 - Destroços flutuando sem peso
 - Edifícios se dissolvendo em vez de se quebrarem
-- Monumentos ou arquitetura não relacionados
+- Monumentos ou arquitetura nêo relacionados
 - Construções fantasiosas
 - Edifícios ainda em pé no final
 - Cortes, transições ou múltiplos ângulos de câmera
@@ -269,13 +269,13 @@ Antes de gerar, confirme:
 
 - `@Image1` controla a arquitetura.
 - O formato é vertical 9:16.
-- A duração é de 15 segundos.
+- A duraçêo é de 15 segundos.
 - O vídeo usa uma única tomada contínua.
 - O enquadramento permanece aberto.
 - O operador continua completamente seco.
-- A destruição é física e prática.
+- A destruiçêo é física e prática.
 - O primeiro impacto está claramente visível.
-- Uma segunda onda conclui a destruição.
+- Uma segunda onda conclui a destruiçêo.
 - Nenhum prédio permanece em pé.
 - A base vazia da miniatura aparece no final.
 - O estúdio e a equipe continuam visíveis.

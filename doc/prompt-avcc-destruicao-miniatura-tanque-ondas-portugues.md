@@ -1,18 +1,18 @@
-# Prompt AVCC — Destruição Prática de Miniatura em Tanque de Ondas
+# Prompt AVCC — Destruiçêo Prática de Miniatura em Tanque de Ondas
 
 ## IDEIA CENTRAL
 
-Crie um vídeo vertical 9:16, com 15 segundos de duração, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
+Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
 
-A cena deve parecer uma gravação real feita dentro de um grande estúdio de produção, e não uma tomada finalizada de um filme-catástrofe.
+A cena deve parecer uma gravaçêo real feita dentro de um grande estúdio de produçêo, e nêo uma tomada finalizada de um filme-catástrofe.
 
-O espectador está assistindo aos bastidores da criação do efeito.
+O espectador está assistindo aos bastidores da criaçêo do efeito.
 
 ---
 
 ## BLOQUEIO DA REFERÊNCIA
 
-`@Image1` define com precisão:
+`@Image1` define com precisêo:
 
 - A aparência arquitetônica
 - O design dos edifícios
@@ -20,47 +20,47 @@ O espectador está assistindo aos bastidores da criação do efeito.
 - Os materiais
 - As cores
 - As proporções
-- A disposição geral da miniatura artesanal
+- A disposiçêo geral da miniatura artesanal
 
 Recrie os edifícios visíveis em `@Image1` como uma miniatura física altamente detalhada.
 
-Não introduza:
+Nêo introduza:
 
 - Monumentos de Bukhara
-- Arquitetura não relacionada
+- Arquitetura nêo relacionada
 - Monumentos adicionais
 - Edifícios fantasiosos
-- Estruturas decorativas que não estejam presentes na imagem de referência
+- Estruturas decorativas que nêo estejam presentes na imagem de referência
 
 ---
 
-## CENÁRIO DE PRODUÇÃO
+## CENÁRIO DE PRODUÇêO
 
 A miniatura está posicionada dentro de um enorme tanque reforçado para ondas práticas, instalado em um grande estúdio de cinema.
 
 Inclua no ambiente:
 
 - Telas azuis
-- Estruturas de iluminação
+- Estruturas de iluminaçêo
 - Guindastes
 - Bombas de água de alta capacidade
 - Mangueiras grossas
 - Cabos
-- Monitores de produção
+- Monitores de produçêo
 - Uma câmera de cinema protegida por uma carcaça à prova d’água
-- Vários membros da equipe usando camisetas pretas com a inscrição “AIVIDEOSKOOL”
+- Vários membros da equipe usando camisetas pretas com a inscriçêo “AIVIDEOSKOOL”
 
 ---
 
 ## CÂMERA E SEGURANÇA
 
-O operador do iPhone grava a partir de uma plataforma de observação seca e levemente elevada, posicionada aproximadamente entre 10 e 15 metros do tanque de ondas.
+O operador do iPhone grava a partir de uma plataforma de observaçêo seca e levemente elevada, posicionada aproximadamente entre 10 e 15 metros do tanque de ondas.
 
 Use um enquadramento moderadamente aberto que mantenha visíveis:
 
 - Toda a miniatura
 - A onda se aproximando
-- Parte do ambiente de produção
+- Parte do ambiente de produçêo
 
 Uma barreira alta e transparente de segurança, acompanhada por uma ampla área seca de trabalho, separa o operador do tanque.
 
@@ -72,7 +72,7 @@ O operador, o iPhone, a lente, a plataforma e o primeiro plano permanecem comple
 
 ## 0–4 SEGUNDOS
 
-Uma única tomada contínua, com câmera na mão, começa mostrando uma visão aberta e levemente distante do estúdio em plena atividade.
+Uma única tomada contínua, com câmera na mêo, começa mostrando uma visêo aberta e levemente distante do estúdio em plena atividade.
 
 A câmera faz uma panorâmica lenta pelos membros da equipe que realizam os últimos ajustes nos edifícios em miniatura, modelados exatamente com base em `@Image1`.
 
@@ -82,11 +82,11 @@ Um assistente posiciona uma claquete e rapidamente retorna para uma passarela se
 
 Fora do enquadramento, o diretor grita:
 
-> “Gravando... Ação!”
+> “Gravando... Açêo!”
 
 O supervisor de efeitos práticos puxa uma pesada alavanca.
 
-Múltiplas bombas industriais são ativadas simultaneamente, produzindo um profundo ruído mecânico.
+Múltiplas bombas industriais sêo ativadas simultaneamente, produzindo um profundo ruído mecânico.
 
 ---
 
@@ -100,7 +100,7 @@ A gigantesca onda prática atinge a miniatura com força avassaladora.
 
 O primeiro impacto arranca instantaneamente os telhados dos edifícios e empurra violentamente as fachadas para dentro.
 
-Uma fração de segundo depois, estruturas inteiras da miniatura se soltam das fundações, desabam em grandes partes físicas e são arrastadas pelo tanque.
+Uma fraçêo de segundo depois, estruturas inteiras da miniatura se soltam das fundações, desabam em grandes partes físicas e sêo arrastadas pelo tanque.
 
 As ruas desaparecem sob a água turbulenta.
 
@@ -122,7 +122,7 @@ O diretor grita:
 
 A corrente violenta continua arrastando os últimos grandes fragmentos da miniatura pelo tanque.
 
-Pequenos destroços giram em meio à água espumosa enquanto a fundação exposta é completamente limpa.
+Pequenos destroços giram em meio à água espumosa enquanto a fundaçêo exposta é completamente limpa.
 
 Ao final, toda a miniatura arquitetônica baseada em `@Image1` foi demolida e levada pela água.
 
@@ -131,10 +131,10 @@ Restam apenas:
 - Uma base vazia e alagada
 - Fragmentos espalhados
 
-A câmera mantém a composição aberta e distante, revelando a grande escala da destruição prática, as telas azuis, as estruturas de iluminação, as bombas e o tanque de ondas devastado.
+A câmera mantém a composiçêo aberta e distante, revelando a grande escala da destruiçêo prática, as telas azuis, as estruturas de iluminaçêo, as bombas e o tanque de ondas devastado.
 
 Os membros da equipe permanecem em segurança atrás das barreiras protegidas.
 
 A água e os destroços permanecem completamente dentro da zona reforçada de efeitos.
 
-A cena termina mostrando a fundação vazia da miniatura enquanto a última onda carrega o último fragmento reconhecível de edifício para fora do enquadramento.
+A cena termina mostrando a fundaçêo vazia da miniatura enquanto a última onda carrega o último fragmento reconhecível de edifício para fora do enquadramento.

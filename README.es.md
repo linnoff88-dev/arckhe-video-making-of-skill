@@ -15,7 +15,7 @@ práctico: lo que aparece en la foto se convierte en una **maqueta** dentro de u
 
 | keyframe A — la maqueta montada | el resultado — la ola destruyendo |
 |---|---|
-| ![maquete](guia/assets/maquete.jpg) | ![destruição](guia/assets/destruicao.jpg) |
+| ![maquete](guia/assets/maquete.jpg) | ![destruiçêo](guia/assets/destruicao.jpg) |
 
 Los dos clips que funcionaron, ambos de 15s a partir de la misma foto — [receta B](guia/assets/b-kling.mp4)
 (plano único, fiel a la guía) y [variante v2](guia/assets/v2-kling.mp4) (multi-shot con revelación del estudio).
