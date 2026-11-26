@@ -12,7 +12,7 @@
 
 ## ê°Å¸ââ Guia de uso
 
-Guia completo (landing + passo a passo): **https://inematds.github.io/video-making-of-skill/guia/**
+Guia completo (landing + passo a passo): **https://linnoff88-dev.github.io/arckhe-/guia/**
 
 ---
 
@@ -26,7 +26,7 @@ sêÂ­smica, barras de fogoê¢â¬Â¦), e o efeito destrêÂ³i a maque
 
 Os dois clipes que funcionaram, ambos de 15s a partir da mesma foto ê¢â¬â [receita B](guia/assets/b-kling.mp4)
 (plano êÂºnico, fiel ao guia) e [variante v2](guia/assets/v2-kling.mp4) (multi-shot com revelaêÂ§êÂ£o do estêÂºdio).
-Assista no [guia](https://inematds.github.io/video-making-of-skill/guia/#video).
+Assista no [guia](https://linnoff88-dev.github.io/arckhe-/guia/#video).
 
 Baseado no guia AVCC de destruiêÂ§êÂ£o de miniatura em tanque de ondas (`doc/`), corrigido pelo
 que foi **medido** gerando ~15 clipes reais em dois provedores.

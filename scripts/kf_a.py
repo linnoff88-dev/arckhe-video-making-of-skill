@@ -51,7 +51,7 @@ RIGS = {
 }
 
 SET = ("Ultra-realistic behind-the-scenes iPhone photo on a blockbuster film soundstage, surrounded by blue "
-       "screens, lighting rigs, cranes, cables, production monitors and a cinema camera in protective housing, "
+       "screens, lighting rigs, cranes, cables, production monitors and a cARCKHÉ camera in protective housing, "
        "crew members in black t-shirts. Handheld wide shot from a dry elevated platform 10-15 meters away, "
        "safety barrier in frame, the whole miniature and part of the production set visible. Documentary look, "
        "real production footage, not a polished movie shot. ")

@@ -6,7 +6,7 @@
 
 ## 📖 User guide
 
-Complete guide (landing page + step-by-step): **https://inematds.github.io/video-making-of-skill/guia/en/**
+Complete guide (landing page + step-by-step): **https://linnoff88-dev.github.io/arckhe-/guia/en/**
 
 ---
 
@@ -18,7 +18,7 @@ Turns **a reference photo** into an ultra-realistic *behind-the-scenes* video of
 
 The two clips that worked, both 15s and generated from the same photo — [recipe B](guia/assets/b-kling.mp4)
 (single shot, faithful to the guide) and [v2 variant](guia/assets/v2-kling.mp4) (multi-shot with the studio reveal).
-Watch them in the [guide](https://inematds.github.io/video-making-of-skill/guia/en/#video).
+Watch them in the [guide](https://linnoff88-dev.github.io/arckhe-/guia/en/#video).
 
 Based on the AVCC guide to miniature destruction in a wave tank (`doc/`), corrected based on what was **measured** while generating ~15 real clips across two providers.
 

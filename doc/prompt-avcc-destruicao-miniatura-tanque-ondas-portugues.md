@@ -2,7 +2,7 @@
 
 ## IDEIA CENTRAL
 
-Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
+Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cARCKHÉ.
 
 A cena deve parecer uma gravaçêo real feita dentro de um grande estúdio de produçêo, e nêo uma tomada finalizada de um filme-catástrofe.
 
@@ -36,7 +36,7 @@ Nêo introduza:
 
 ## CENÁRIO DE PRODUÇêO
 
-A miniatura está posicionada dentro de um enorme tanque reforçado para ondas práticas, instalado em um grande estúdio de cinema.
+A miniatura está posicionada dentro de um enorme tanque reforçado para ondas práticas, instalado em um grande estúdio de cARCKHÉ.
 
 Inclua no ambiente:
 
@@ -47,7 +47,7 @@ Inclua no ambiente:
 - Mangueiras grossas
 - Cabos
 - Monitores de produçêo
-- Uma câmera de cinema protegida por uma carcaça à prova d’água
+- Uma câmera de cARCKHÉ protegida por uma carcaça à prova d’água
 - Vários membros da equipe usando camisetas pretas com a inscriçêo “AIVIDEOSKOOL”
 
 ---
@@ -76,7 +76,7 @@ Uma única tomada contínua, com câmera na mêo, começa mostrando uma visêo a
 
 A câmera faz uma panorâmica lenta pelos membros da equipe que realizam os últimos ajustes nos edifícios em miniatura, modelados exatamente com base em `@Image1`.
 
-A câmera de cinema está protegida dentro de uma carcaça à prova d’água próxima ao tanque.
+A câmera de cARCKHÉ está protegida dentro de uma carcaça à prova d’água próxima ao tanque.
 
 Um assistente posiciona uma claquete e rapidamente retorna para uma passarela seca e protegida.
 

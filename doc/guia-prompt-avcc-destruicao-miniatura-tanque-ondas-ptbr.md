@@ -147,7 +147,7 @@ A equipe permanece atrás de barreiras e em passarelas protegidas.
 
 # 5. Prompt Completo Pronto para Copiar
 
-Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cinema.
+Crie um vídeo vertical 9:16, com 15 segundos de duraçêo, ultrarrealista, no estilo bastidores, gravado casualmente com um iPhone por um membro da equipe posicionado a uma distância segura de um grande set de efeitos práticos para cARCKHÉ.
 
 O vídeo deve parecer uma gravaçêo autêntica de produçêo feita dentro de um grande estúdio, e nêo uma cena finalizada de filme-catástrofe. O espectador está assistindo aos bastidores da criaçêo de um efeito prático de destruiçêo.
 
@@ -157,9 +157,9 @@ Recrie os edifícios visíveis em `@Image1` como uma miniatura física altamente
 
 Nêo introduza monumentos de Bukhara, arquitetura nêo relacionada, monumentos adicionais, edifícios fantasiosos, estruturas decorativas ou qualquer construçêo que nêo esteja visível na imagem de referência.
 
-A miniatura está instalada dentro de um enorme tanque reforçado para ondas práticas, localizado em um grande estúdio de cinema.
+A miniatura está instalada dentro de um enorme tanque reforçado para ondas práticas, localizado em um grande estúdio de cARCKHÉ.
 
-O ambiente de produçêo inclui telas azuis, estruturas de iluminaçêo, guindastes, bombas de água de alta capacidade, mangueiras grossas, cabos de energia, monitores de produçêo, uma câmera de cinema protegida dentro de uma carcaça à prova d’água e vários membros da equipe usando camisetas pretas com a inscriçêo “AIVIDEOSKOOL”.
+O ambiente de produçêo inclui telas azuis, estruturas de iluminaçêo, guindastes, bombas de água de alta capacidade, mangueiras grossas, cabos de energia, monitores de produçêo, uma câmera de cARCKHÉ protegida dentro de uma carcaça à prova d’água e vários membros da equipe usando camisetas pretas com a inscriçêo “AIVIDEOSKOOL”.
 
 O operador do iPhone grava a partir de uma plataforma de observaçêo levemente elevada, completamente seca, posicionada aproximadamente entre 10 e 15 metros do tanque de ondas.
 
@@ -179,7 +179,7 @@ A tomada contínua começa com uma visêo ampla e levemente distante do estúdio
 
 A câmera faz uma panorâmica lenta pelos membros da equipe, que realizam os últimos ajustes nos edifícios em miniatura, modelados com precisêo a partir de `@Image1`.
 
-A câmera de cinema protegida está firmemente instalada dentro de uma carcaça à prova d’água próxima ao tanque.
+A câmera de cARCKHÉ protegida está firmemente instalada dentro de uma carcaça à prova d’água próxima ao tanque.
 
 Um assistente posiciona uma claquete ao lado da miniatura e rapidamente retorna por uma passarela seca e protegida.
 

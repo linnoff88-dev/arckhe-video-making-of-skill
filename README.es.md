@@ -6,7 +6,7 @@
 
 ## 📖 Guía de uso
 
-Guía completa (landing + paso a paso): **https://inematds.github.io/video-making-of-skill/guia/es/**
+Guía completa (landing + paso a paso): **https://linnoff88-dev.github.io/arckhe-/guia/es/**
 
 ---
 
@@ -19,7 +19,7 @@ práctico: lo que aparece en la foto se convierte en una **maqueta** dentro de u
 
 Los dos clips que funcionaron, ambos de 15s a partir de la misma foto — [receta B](guia/assets/b-kling.mp4)
 (plano único, fiel a la guía) y [variante v2](guia/assets/v2-kling.mp4) (multi-shot con revelación del estudio).
-Míralos en la [guía](https://inematds.github.io/video-making-of-skill/guia/es/#video).
+Míralos en la [guía](https://linnoff88-dev.github.io/arckhe-/guia/es/#video).
 
 Basado en la guía AVCC de destrucción de miniaturas en tanque de olas (`doc/`), corregida según lo
 que se **midió** al generar ~15 clips reales en dos proveedores.

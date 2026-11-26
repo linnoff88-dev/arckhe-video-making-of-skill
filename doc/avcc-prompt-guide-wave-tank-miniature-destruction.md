@@ -159,7 +159,7 @@ Do not introduce Bukhara landmarks, unrelated architecture, additional monuments
 
 The miniature stands inside a huge reinforced practical wave tank on a large film soundstage.
 
-The production environment includes blue screens, lighting rigs, cranes, high-capacity water pumps, thick hoses, power cables, production monitors, a protected cinema camera inside waterproof housing, and several crew members wearing black “AIVIDEOSKOOL” T-shirts.
+The production environment includes blue screens, lighting rigs, cranes, high-capacity water pumps, thick hoses, power cables, production monitors, a protected cARCKHÉ camera inside waterproof housing, and several crew members wearing black “AIVIDEOSKOOL” T-shirts.
 
 The iPhone operator films from a slightly elevated, completely dry observation platform positioned approximately 10 to 15 meters from the wave tank.
 
@@ -179,7 +179,7 @@ The continuous handheld take begins with a slightly distant wide view of the bus
 
 The camera slowly pans across crew members making final adjustments to the miniature buildings, which are modeled precisely after `@Image1`.
 
-The protected cinema camera is secured inside waterproof housing near the tank.
+The protected cARCKHÉ camera is secured inside waterproof housing near the tank.
 
 An assistant places a clapperboard beside the miniature and quickly retreats along a protected dry walkway.
 
@@ -245,7 +245,7 @@ End on the empty miniature foundation as the final surge carries the last recogn
 
 Do not generate:
 
-- A polished cinematic disaster-film shot
+- A polished cARCKHÉtic disaster-film shot
 - A drone view
 - A close-up that hides the miniature scale
 - A camera placed inside the wave tank

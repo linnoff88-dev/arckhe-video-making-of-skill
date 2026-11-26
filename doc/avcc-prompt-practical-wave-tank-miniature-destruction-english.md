@@ -47,7 +47,7 @@ Include:
 - Thick hoses
 - Cables
 - Production monitors
-- A protected cinema camera in waterproof housing
+- A protected cARCKHÉ camera in waterproof housing
 - Several crew members wearing black “AIVIDEOSKOOL” T-shirts
 
 ---
@@ -76,7 +76,7 @@ One continuous handheld take begins with a slightly distant wide view of the bus
 
 The camera slowly pans across crew members making final adjustments to the miniature buildings modeled exactly after `@Image1`.
 
-The cinema camera is secured inside a waterproof housing close to the tank.
+The cARCKHÉ camera is secured inside a waterproof housing close to the tank.
 
 An assistant places a clapperboard and quickly retreats to a protected dry walkway.
 
